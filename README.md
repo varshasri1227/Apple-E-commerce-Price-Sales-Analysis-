@@ -53,7 +53,7 @@ To analyze e-commerce pricing and product performance data and provide data-driv
 ##  Dashboard Preview
 
 ### Page 1 — Price & Sales Overview
-![Apple E-commerce Price & Sales Analysis - Page 1](Apple_Ecommerce_Dashboard_Page1)
+![Apple E-commerce Price & Sales Analysis - Page 1](Apple_Ecommerce_Dashboard_Page1.png)
 
 ### Page 2 — Detailed Price & Sales Analysis
-![Apple E-commerce Price & Sales Analysis - Page 2](Apple_Ecommerce_Dashboard_Page2)
+![Apple E-commerce Price & Sales Analysis - Page 2](Apple_Ecommerce_Dashboard_Page2.png)
