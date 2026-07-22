@@ -50,12 +50,10 @@ The analysis explores product categories, product conditions, pricing, discounts
 
 To analyze e-commerce pricing and product performance data and provide data-driven insights to support pricing, inventory, and promotional decisions.
 
-## 📊 Dashboard Preview
-
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ### Page 1 — Price & Sales Overview
-![Apple E-commerce Price & Sales Analysis - Page 1](Apple_Ecommerce_Dashboard_Page1.png)
+![Apple E-commerce Price & Sales Analysis - Page 1](Apple_Ecommerce_Dashboard_Page1)
 
 ### Page 2 — Detailed Price & Sales Analysis
-![Apple E-commerce Price & Sales Analysis - Page 2](Apple_Ecommerce_Dashboard_Page2.png)
+![Apple E-commerce Price & Sales Analysis - Page 2](Apple_Ecommerce_Dashboard_Page2)
