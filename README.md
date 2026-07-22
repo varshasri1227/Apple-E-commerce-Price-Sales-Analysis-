@@ -50,4 +50,3 @@ The analysis explores product categories, product conditions, pricing, discounts
 
 To analyze e-commerce pricing and product performance data and provide data-driven insights to support pricing, inventory, and promotional decisions.
 
-To analyze e-commerce pricing and product performance data and provide data-driven insights to support pricing, inventory, and promotional decisions.
